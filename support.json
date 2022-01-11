@@ -1,6 +1,6 @@
 {
     "IsOpen": "No",
-    "Download": "https://download.anydesk.com/AnyDesk.exe"
+    "Download": "https://download.anydesk.com/AnyDesk.exe",
     "ReturnNotOpen": "Sorry, currently our support system is closed.",
     "MaxWaitTime": "600"
 }
